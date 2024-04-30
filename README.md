@@ -5,7 +5,7 @@ using django to develop portofilo
 
 1. Git Clone the project with: ```git clone ```.
 
-2. Move to the base directory: ``` Eg:cd Django-Twitter-Clone```
+2. Move to the base directory: ``` Eg:cd project```
 
 3. Create a new python enveronment with: ```python -m venv env```.
 
